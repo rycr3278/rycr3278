@@ -4,7 +4,7 @@
 
 ## About Me
 
-Detail-oriented technical professional with a history in digital video editing and a dedication to excellence. Now diving deep into the world of Computer Science at CU Boulder. Courses include Data Structures, Linear Algebra, Discrete Structures, and Computer Systems.
+Detail-oriented technical professional with a history in digital video editing and a dedication to excellence. Now diving deep into the world of Computer Science at CU Boulder. Courses include Data Structures, Algorithms, Linear Algebra, Discrete Structures, and Computer Systems.
 
 ## Education
 
