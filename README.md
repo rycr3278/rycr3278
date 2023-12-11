@@ -1,11 +1,4 @@
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/211/211099.gif" alt="Alt Text"/>
-</p>
-
-
----
-
 # Hello, I'm Ryan! 👋
 
 <p align="left">
