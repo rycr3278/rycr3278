@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/11S3telH8JJnsQ/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/Q8_huSjAs6kAAAAi/connect.gif" width="100"/>
 </div>
 
 # Ryan Cross
