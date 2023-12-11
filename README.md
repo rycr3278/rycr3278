@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/11S3telH8JJnsQ/giphy.gif?cid=ecf05e479kd628jx4lbzrf7hh48l4abdzlq7mi9b910wuv3u&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="100"/>
+</div>
+
 # Ryan Cross
 
 🔗 [LinkedIn](www.linkedin.com/in/ryan-m-cross)
