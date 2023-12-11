@@ -16,25 +16,18 @@ I'm a creative and detail-oriented professional, transitioning from a successful
 
 When I'm not working on some code, you might find me immersed in a good book, playing with my dog, or hiking the trails around NJ.
 
-## 🎓 Education
-
-- **Colorado University - Boulder** (2023-Present)  
-  _Bachelor of Science, Applied Computer Science_
-
-- **Monmouth University** (2009-2014)  
-  _Bachelor of Arts, Communication_
-
 ## 💻 Languages and Tools
 
-- **Languages**: Python 🐍, C++ 💻, and currently learning Java ☕ and JavaScript ✨.
-- **Tools**: Git, GitHub, Visual Studio Code, and a growing list of others as I dive deeper into my studies and projects.
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+</div>
 
-## 🌟 Soft Skills
-
-- **Communication**: Articulate in both verbal and written forms; honed through my background in communication and team collaborations.
-- **Critical Thinking & Problem-Solving**: Always ready to tackle complex challenges with a logical and creative approach.
-- **Teamwork & Leadership**: Experienced in working within diverse teams and leading projects to successful completion.
-- **Adaptability & Continuous Learning**: Eager to learn new skills and adapt to changing environments.
 
 ## 📊 GitHub Stats
 
